@@ -383,7 +383,11 @@ flowchart TD
 
 ## Video
 
-[Add your demo video link here]
+<video src="screenshots/1.mp4" controls="controls" width="100%">
+  Your browser does not support the video tag.
+</video>
+
+[▶️ Watch Demo Video (1.mp4)](screenshots/1.mp4)
 
 *The demo shows the extension detecting productive browsing, interrupting the user, opening Instagram Reels, entering fullscreen mode, and enforcing the configured lock duration.*
 
