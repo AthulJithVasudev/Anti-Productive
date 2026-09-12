@@ -11,12 +11,12 @@
 ## Basic Details
 
 ### Team Name:
-[Your Team Name]
+KRYONEX
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Athuljith Vasudev - Christ College of Engineering
+- Member 2: John Antony - Christ College of Engineering
+
 
 ---
 
