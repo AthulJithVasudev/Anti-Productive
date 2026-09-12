@@ -401,9 +401,9 @@ flowchart TD
 
 # Team Contributions
 
-- **[Name 1]**: Chrome extension architecture, navigation monitoring, redirect logic, fullscreen and lock system.
-- **[Name 2]**: Gemini-based website classification and API integration.
-- **[Name 3]**: Popup interface, UI/UX design, testing, documentation and demo preparation.
+- **Athuljith Vasudev**: Chrome extension architecture, navigation monitoring, redirect logic, fullscreen and lock system.
+- **John Antony**: Gemini-based website classification and API integration,Popup interface, UI/UX design, testing, documentation and demo preparation.
+
 
 ---
 
